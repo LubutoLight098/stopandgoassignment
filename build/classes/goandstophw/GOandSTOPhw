@@ -1,0 +1,44 @@
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
+ */
+package goandstophw;
+
+/**
+ *
+ * @author Alichi
+ */
+public class GOandSTOPhw {
+
+    /**
+     * @param args the command line arguments
+     */
+    public static void main(String[] args) {
+        System.out.println("                                         __ __ ___  __ __ __ __ __ __ __ __ __ __ __ __ __ __ __");
+    System.out.println();
+    System.out.println("                          *********                                                                           XXXXXXXXX                          ");
+    
+    
+    System.out.println("                *                         *                                                        X                            X                       ");
+    
+    
+    System.out.println("            *            S T O P             *                                                  X                  GO               X              ");
+    
+    
+    System.out.println("                *                        *                                                         X                            x");
+    
+    
+    System.out.println("                          *********                                                                           XXXXXXXXX                                                  ");
+    System.out.println("                              **                                                                                  XX                  ");
+    System.out.println("                              **                                                                                  XX");
+    System.out.println("                              **                                                                                  XX");
+    System.out.println("                              **                                                                                  XX");
+    System.out.println("                              **                                                                                  XX");
+    System.out.println("                             ****                                                                                XXXX                         ");
+    System.out.println("                          **********                                                                          XXXXXXXXXX                                                       ");
+    System.out.println("|--------------------------------------------------------------------------------------------------------------------------------------------------------------| ");
+    System.out.println("|--------------------------------------------------------------------------------------------------------------------------------------------------------------|");
+    
+    }
+    
+}
